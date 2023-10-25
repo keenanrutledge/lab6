@@ -1,3 +1,4 @@
+# Keenan Rutledge
 def main():
 	print('Menu \n-------------\n1. Encode\n2. Decode\n3. Quit')
 	print('Please enter an option:')
